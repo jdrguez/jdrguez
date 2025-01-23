@@ -33,18 +33,33 @@
 
 - **Languages**:
     
-    ![JavaScrip](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![TypeSCript](https://img.shields.io/badge/TypeScript%20-%2300599C.svg?style=for-the-badge&logo=typescript%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Ruby](https://img.shields.io/badge/Ruby%20-%23F63440.svg?style=for-the-badge&logo=Ruby&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+    ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 <br>   
     
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+   ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+
+<br>
+
+- **Front-End FrameWorks**:
+  
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
+  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
+  ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
+
+<br>
+
+- **Back-End FrameWorks**:
+
+  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 
 <br>
 
