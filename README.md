@@ -72,22 +72,21 @@
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![MacOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=black)
+    ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+    ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+    ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+    ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 
 <br>
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![iTerm2](https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff)
+    ![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)
+    ![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)  
-
-
+ 
 </p>
 
 <br>
