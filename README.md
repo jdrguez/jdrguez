@@ -65,8 +65,8 @@
 
 - **Database**:
 
-    ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![SQlite](https://img.shields.io/badge/SQlite%20-%23003B57.svg?style=for-the-badge&logo=SQlite&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
     
 <br>
 
