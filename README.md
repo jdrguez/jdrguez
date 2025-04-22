@@ -19,7 +19,7 @@
 - A passionate Self-taught FullStack Developer 🔌
 - Player in my free times 🚀
 - Currently learning Web Development 🕸️
-- Personal Web = in progress.. 🚧
+- Personal Web = https://jdrguez.vercel.app/
 - Trying to do better every day 😄
 
 <br><br>
